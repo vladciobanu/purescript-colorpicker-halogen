@@ -20,14 +20,18 @@
     "example"
   ],
   "dependencies": {
-    "purescript-colors": "^4.0.0",
-    "purescript-halogen": "^2.1.0",
+    "purescript-colors": "^4.3.0",
+    "purescript-halogen": "^3.0.1",
     "purescript-halogen-css": "^6.0.0",
     "purescript-dom-classy": "^2.1.0",
-    "purescript-dom": "^4.7.0",
+    "purescript-dom": "^4.13.2",
     "purescript-number-input-halogen": "git://github.com/safareli/purescript-number-input-halogen.git#initial-props"
   },
   "resolutions": {
-    "purescript-colors": "^4.0.0"
+    "purescript-colors": "^4.3.0",
+    "purescript-halogen": "^3.0.1",
+    "purescript-aff": "^4.0.0",
+    "purescript-dom-indexed": "^5.0.0",
+    "purescript-fork": "^3.0.0"
   }
 }
